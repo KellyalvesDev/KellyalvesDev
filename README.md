@@ -1,5 +1,3 @@
-<div align="center">
-
 # Olá, eu sou a Kelly! 👋
 
 ### Desenvolvedora Full Stack em formação 🚀
